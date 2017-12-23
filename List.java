@@ -1,15 +1,6 @@
 package edu.cofc.csci230;
 
-/**
- * List interface that "closely" resembles the List interface
- * in the java.util package 
- * 
- * http://docs.oracle.com/javase/7/docs/api/java/util/List.html
- * 
- * @author CSCI 230: Data Structures and Algorithms Fall 2017
- *
- * @param <AnyType>
- */
+
 public interface List <AnyType> {
 	
 	/**
